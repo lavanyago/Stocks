@@ -1,0 +1,5 @@
+yfinance
+pandas-datareader
+altair
+altair_saver
+altair_viewer
